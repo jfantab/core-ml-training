@@ -1,0 +1,15 @@
+{
+  "Outputs" : {
+    "Identity" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "Inputs" : {
+    "lstm_19_input" : {
+      "MLFeatureShortDescription" : ""
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
